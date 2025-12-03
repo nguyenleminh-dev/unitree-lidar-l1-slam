@@ -189,3 +189,7 @@ usbipd attach --wsl --busid [YOUR_BUSID]
 ls /dev/ttyUSB*
 ```
 - After every restart you need to bind (maybe) and attach again for connecting USB, you will run it as well as you go.
+# CONTRIBUTORS
+- Nguyen Le Minh
+- Duong Thien Truong
+- Nguyen Thanh Cong
